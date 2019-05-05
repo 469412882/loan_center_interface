@@ -7,5 +7,8 @@
 	}, {
 		"pkgName": "com.dabai",
 		"h5Url": "https://www.baidu.com"
+	}, {
+		"pkgName": "com.c.example",
+		"h5Url": "https://www.baidu.com"
 	}]
 }
