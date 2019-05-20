@@ -6,9 +6,9 @@
 		"h5Url": "http://m.ccb.com/cn/creditcard/mobilev3/cards/product_list.html?Rcmd_insID=B32301111"
 	}, {
 		"pkgName": "com.jtyhxyk.zzxyk",
-		"h5Url": "http://www.huishuaka.com/5/cpb/news/lanmu.html"
+		"h5Url": "https://creditcard.bankcomm.com/content/cards.html?device=WAP"
 	}, {
-		"pkgName": "com.c.example",
-		"h5Url": "https://www.baidu.com"
+		"pkgName": "com.nyyhxyksq.zzxyk",
+		"h5Url": "http://credit.cmbond.com/memu/card/page1.html"
 	}]
 }
