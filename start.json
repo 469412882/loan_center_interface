@@ -2,13 +2,6 @@
 	"code": "1",
 	"desc": "",
 	"data": [{
-		"pkgName": "com.jsyhxykbk.zzxyk",
-		"h5Url": "http://snsauth.ccb.com/ccbsns/SNSService?TXCODE=MH5001&wParam=%2BGZtJch9%2FOF4ChPlfGt1mvJxvW5giHbbMC8MRlik%2FKrtwfUImSXJcQN82xVkf79h2dXWswDurv0pYWZ8YkmVzbas8K%2F4rfqMOx%2F0cbxKqvoqkoIQsIEua14fcKknMfvNBPqV0AdoIj4Tpt6yhc7%2FJqnE%2BMSvPcfePb8hl%2FDrH7WZisXAR3TOopaBWZ8RBhw8yRK5gS3HXyrHhnxrJPeV1e1qHswQJVlVFrLGsoDYIpldlf%2Byh0SnBSl2zoSoqBDSNTjTlSj%2FA%2B1vp6%2B4Y4JHrfreLuSoqtA187TiSHFd3BJ06bHTXEEeozADhIJAO3GUaEoe4orDFiFTNuXmENfS%2F8kys4Qa1dYxofbzc3LpPwjiao2u%2FTpSLlWqqHzwwuMD9lKA7wJRrDReIm1a%2FHPrOKm6vBHOCKw5HhfuWj4WWBU93aANAS7wUQAncP3p2GlFK1okZ6dH%2FZXIKQ%2BQFl0bSQ%3D%3D"
-	}, {
-		"pkgName": "com.jtyhxyk.zzxyk",
-		"h5Url": "https://creditcard.bankcomm.com/content/cards.html?device=WAP"
-	}, {
-		"pkgName": "com.nyyhxyksq.zzxyk",
-		"h5Url": "http://credit.cmbond.com/memu/card/page1.html"
-	}]
-}
+		"pkgName": "com.sfzdk.ysdkjq",
+		"h5Url": "https://wap.zjtlcb.com/wxMobilebank/?randomNo=0.17774906814330427#/followLoan"
+	}
