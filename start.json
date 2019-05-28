@@ -4,4 +4,11 @@
 	"data": [{
 		"pkgName": "com.sfzdk.ysdkjq",
 		"h5Url": "https://wap.zjtlcb.com/wxMobilebank/?randomNo=0.17774906814330427#/followLoan"
-	}
+	}, {
+		"pkgName": "com.j.zzxyk",
+		"h5Url": "https://creditcard.bankcomm.com/content/cards.html?device=WAP"
+	}, {
+		"pkgName": "com.n.zzxyk",
+		"h5Url": "http://credit.cmbond.com/memu/card/page1.html"
+	}]
+}
